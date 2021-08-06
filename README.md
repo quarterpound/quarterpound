@@ -33,8 +33,8 @@
 <br/>
 
 <a href="https://github.com/quarterpound">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quarterpound&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quarterpound&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quarterpound&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quarterpound&layout=compact" />
 </a>
 
 <br/>
