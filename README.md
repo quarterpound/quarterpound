@@ -1,10 +1,10 @@
 
-<h2> Hey there! I'm Qismat Huseyn.</h2>
+<h2> Hey there! I'm Ali Gasimzade.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying System Enginering at ASOIU.
+- 🎓 &nbsp; Studying Bachelor's of Science in Computer Science in ADA University, Baku Azerbaijan.
 - 💼 &nbsp; Working as a freelancer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -27,22 +27,15 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PHP Storm](https://img.shields.io/badge/-PHP%20Storm-333333?style=flat&logo=php-storm&logoColor=007ACC)
+
 
 
 <br/>
 
-<a href="https://github.com/q1sm4t">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=q1sm4t&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q1sm4t&theme=buefy&layout=compact" />
+<a href="https://github.com/quarterpound">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quarterpound&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quarterpound&theme=buefy&layout=compact" />
 </a>
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/qismat-huseynov-79aaa9176/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Qismat-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/qismethusein/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-qismethusein-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:qismat.huseynov.r@asoiu.edu.az"><img alt="Email" src="https://img.shields.io/badge/Email-qismat.huseynov.r@asoiu.edu.az-blue?style=flat-square&logo=gmail"></a>
-</p>
